@@ -1,8 +1,8 @@
 app_name = "lending"
-app_title = "Frappe Lending"
-app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = "Open Source Lending software"
-app_email = "contact@frappe.io"
+app_title = "thinknxg Lending"
+app_publisher = "thinknxg Technologies Pvt. Ltd."
+app_description = "thinknxg Lending software"
+app_email = "sales@kreatao.com"
 app_license = "GNU General Public License (v3)"
 required_apps = ["erpnext"]
 
