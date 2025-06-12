@@ -1,6 +1,19 @@
+<div align="center">
+    <a href="https://thinknxg">
+        <img src="https://thinknxg.com/wp-content/uploads/2023/12/favicon.svg1-01.png" height="128">
+    </a>
+    <h2>thinkNXG CRM</h2>
+    <p align="center">
+        <p>crm made simple</p>
+    </p>
+
+
+</div>
+
+
 ## Introduction
 
-Open Source Lending software.
+thinknxg Lending software.
 
 ## Key Features
 
@@ -11,8 +24,8 @@ Open Source Lending software.
 ### Manual Installation
 
 1. [Install bench](https://github.com/frappe/bench).
-2. [Install ERPNext](https://github.com/frappe/erpnext#installation).
-3. Once ERPNext is installed, add the lending app to your bench by running
+2. [Install ERPNext](https://github.com/thinknxg/thinknxg-ERP.git).
+3. Once thinknxg ERPNext is installed, add the lending app to your bench by running
 
 	```sh
 	$ bench get-app lending
@@ -22,15 +35,6 @@ Open Source Lending software.
 	$ bench --site sitename install-app lending
 	```
 
-## Learning and Community
-
-1. [Documentation](https://docs.erpnext.com/docs/v14/user/manual/en/loan-management) - Extensive documentation for Frappe Lending.
-2. [User Forum](https://discuss.frappe.io/) - Engage with the community of ERPNext users and service providers.
-
-## Contribute
-
-1. [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines) - [Create an issue](https://github.com/frappe/lending/issues/new/choose)
-1. [Contribution Guidelines](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
 
 ## License
 
