@@ -1,6 +1,6 @@
 app_name = "lending"
-app_title = "Lending"
-app_publisher = "Frappe Technologies Pvt. Ltd."
+app_title = "thinknxg Lending"
+app_publisher = "thinknxg Technologies Pvt. Ltd."
 app_description = "Open Source Lending software"
 app_email = "contact@frappe.io"
 app_license = "GNU General Public License (v3)"
